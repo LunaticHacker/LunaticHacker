@@ -1,8 +1,5 @@
-Hi there I'm Ajo George aka. Lunatic Hacker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align='right' src="https://user-images.githubusercontent.com/46259660/123438080-fa67bc80-d5ed-11eb-85f7-9b2e841c882e.png" width="250">
 
-![everything-is-fine-sticker](https://i.ibb.co/G7ThQX8/sticker-new-007-bg-1601305517950.png)<br>
- Pronouns : They/Them
+# Why are you here?
 
- - 😍 I Like to code things that make me and the people around me happy.<br>
- - 📖 Always learning new things.<br>
- - 🔭 Interested in Maths, Science, Poetry, and Interactive Fiction. 
+ There is nothing to see here.
